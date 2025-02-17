@@ -1,1 +1,1 @@
-# learn-go
+# My Go programming journey.
